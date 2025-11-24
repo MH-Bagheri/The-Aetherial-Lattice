@@ -28,7 +28,7 @@ Ensure you have Python 3.8 or newer installed.
 1.  **Clone the repository** (or download the script):
 
     ```
-    git clone https://github.com/mohammadd13579/aetherial-lattice.git
+    git clone https://github.com/mh-bagheri/aetherial-lattice.git
     cd aetherial-lattice
     ```
 
